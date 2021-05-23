@@ -1,10 +1,13 @@
 # cypress-small-test
-Tuto for cypress 
 
+## Goal
 This is a project to learn cypress.
 
-The file amazon_test.spec.js has been added in cypress/integration/examples
-It adds a pen to the cart and checks that the number of items in the cart is 1.
+The file *amazon_test.spec.js* has been added in *cypress/integration/examples*
 
-How to run tests:
+It adds a pen to the cart and checks that the number of items is 1.
+
+## How to run the tests:
+```bash
 npm run cy:run
+```
