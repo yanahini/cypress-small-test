@@ -1,7 +1,7 @@
 # cypress-small-test
 
 ## Goal
-This is a project to learn cypress.
+This is a project to use cypress.
 
 The file *amazon_test.spec.js* has been added in *cypress/integration/examples*
 
