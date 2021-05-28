@@ -11,3 +11,7 @@ It adds a pen to the cart and checks that the number of items is 1.
 ```bash
 npm run cy:run
 ```
+
+## Result:
+https://user-images.githubusercontent.com/36894930/120004947-a7dbb600-bfd7-11eb-85d9-6ceb7035c3e5.mp4
+
